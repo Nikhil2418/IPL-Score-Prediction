@@ -4,6 +4,10 @@
 
 This project predicts the total score of a cricket team at the end of their innings during an IPL (Indian Premier League) match using Machine Learning. The model is trained on historical IPL data from seasons 1-9 (2008-2016) and tested on season 10 (2017).
 
+<p align="center">
+  <img src="Images/IPL_Score_app_img.png" alt="IPL Score Predictor App Screenshot" width="800"/>
+</p>
+
 ## Table of Contents
 
 - [Dataset](#dataset)
