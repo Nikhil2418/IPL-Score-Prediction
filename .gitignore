@@ -58,9 +58,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Images folder (if contains temporary/generated images)
-Images/
-
 # Environment variables
 .env
 .env.local
